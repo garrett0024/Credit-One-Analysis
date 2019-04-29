@@ -8,9 +8,12 @@ Findings
 
 Based on my observations, I was able to find a relationship between the given credit limit and defaulting, customers with smaller credit limits default much more than customers with higher credit limits. This can lead to possibly checking customers with lower credit scores more thoroughly, to see if it is worth the risk to lend them credit. The figure below displays this relationship, as the orange represents defaulting and the blue represents not defaulting. 
 
+![limit dis](https://user-images.githubusercontent.com/49155042/56920113-61ca6600-6a90-11e9-833a-70d8c59c6cb4.PNG)
+
 
 
 Another observation to note would be the relationship between defaulting and if/how the customer paid their bill. The figures below show that the more their bill amount is, how much they pay is, and how they paid their bill, the less likely they are to default.
+
 ![bill   pay graph](https://user-images.githubusercontent.com/49155042/56920080-43646a80-6a90-11e9-8856-b6715e796a48.PNG)
 
 
